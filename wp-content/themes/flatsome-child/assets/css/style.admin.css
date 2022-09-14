@@ -1,0 +1,39 @@
+/* Danh sách tỉnh thành */
+#prov_table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#prov_table td, #prov_table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#prov_table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#prov_table tr:hover {
+  background-color: #ddd;
+}
+
+#prov_table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #81B341;
+  color: white;
+}
+
+#btnUpdate {
+  display: inline-block;
+  background-color: #81B341;
+  color: white;
+  padding: 10px 30px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.mybtnUpdate {
+  visibility: hidden;
+}

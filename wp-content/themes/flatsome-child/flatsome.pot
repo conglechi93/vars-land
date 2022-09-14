@@ -1,0 +1,724 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rao Vat Bat Dong San 2022\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-09 07:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: flatsome"
+
+#: taxonomy-re_cat.php:50
+msgid " - Tin vip"
+msgstr ""
+
+#: inc/functions.php:208
+msgid " ngàn"
+msgstr ""
+
+#: search-re.php:152
+msgid " tin đăng"
+msgstr ""
+
+#: inc/functions.php:205
+msgid " triệu"
+msgstr ""
+
+#: inc/functions.php:202
+msgid " tỷ"
+msgstr ""
+
+#: functions.php:119 functions.php:124 functions.php:129
+msgid "<li class=\"mh-child-crumbs\">Archive for"
+msgstr ""
+
+#: functions.php:139
+msgid "<li class=\"mh-child-crumbs\">Blog Archives"
+msgstr ""
+
+#: functions.php:143
+msgid "<li class=\"mh-child-crumbs\">Search Results"
+msgstr ""
+
+#: page-post.php:101
+msgid "Bạn chưa chọn loại nhà đất."
+msgstr ""
+
+#: page-post.php:97
+msgid "Bạn chưa chọn nhu cầu."
+msgstr ""
+
+#: page-post.php:109
+msgid "Bạn chưa chọn quận/huyện."
+msgstr ""
+
+#: page-post.php:105
+msgid "Bạn chưa chọn tỉnh/thành."
+msgstr ""
+
+#: page-post.php:133
+msgid "Bạn chưa chọn đơn giá."
+msgstr ""
+
+#: page-list-post.php:126
+msgid "Bạn chưa có tin đăng nào."
+msgstr ""
+
+#: page-post.php:117
+msgid "Bạn chưa nhập diện tích."
+msgstr ""
+
+#: inc/ajax.php:126 inc/ajax.php:189
+msgid "Bạn chưa nhập email."
+msgstr ""
+
+#: page-post.php:124
+msgid "Bạn chưa nhập giá."
+msgstr ""
+
+#: inc/ajax.php:122
+msgid "Bạn chưa nhập họ và tên."
+msgstr ""
+
+#: inc/ajax.php:158
+msgid "Bạn chưa nhập lại mật khẩu."
+msgstr ""
+
+#: inc/ajax.php:150
+msgid "Bạn chưa nhập mật khẩu."
+msgstr ""
+
+#: inc/ajax.php:138
+msgid "Bạn chưa nhập số điện thoại."
+msgstr ""
+
+#: page-post.php:137
+msgid "Bạn chưa nhập thông tin mô tả."
+msgstr ""
+
+#: page-post.php:93
+msgid "Bạn chưa nhập tiêu đề."
+msgstr ""
+
+#: page-post.php:113
+msgid "Bạn chưa nhập địa chỉ."
+msgstr ""
+
+#: single-re.php:134 single-re.php:141
+msgid "Bản đồ"
+msgstr ""
+
+#: inc/ux/commons/repeater-posts.php:5 inc/ux/commons/vertical-option.php:4
+msgid "Bất động sản"
+msgstr ""
+
+#: inc/functions.php:263
+msgid "Bắc"
+msgstr ""
+
+#: content-re.php:69
+msgid "Chi tiết"
+msgstr ""
+
+#: functions.php:212
+msgid "Chia sẻ tin này: "
+msgstr ""
+
+#: page-post.php:359 inc/advanced-search-widget.php:99
+#: inc/ux/advanced-search.php:162
+msgid "Chọn hướng nhà"
+msgstr ""
+
+#: page-post.php:261 inc/advanced-search-widget.php:36 inc/ajax.php:75
+#: inc/ux/advanced-search.php:93
+msgid "Chọn loại nhà đất"
+msgstr ""
+
+#: page-post.php:247
+msgid "Chọn nhu cầu"
+msgstr ""
+
+#: page-post.php:319 inc/advanced-search-widget.php:92 inc/functions.php:184
+#: inc/ux/advanced-search.php:153
+msgid "Chọn phường/xã"
+msgstr ""
+
+#: page-post.php:301 inc/advanced-search-widget.php:76 inc/functions.php:158
+#: inc/ux/advanced-search.php:135
+msgid "Chọn quận/huyện"
+msgstr ""
+
+#: inc/ux/advanced-search.php:111
+msgid "Chọn Tỉnh/ Thành phố"
+msgstr ""
+
+#: inc/functions.php:133
+msgid "Chọn tỉnh/thành"
+msgstr ""
+
+#: page-post.php:342
+msgid "Chọn đơn giá"
+msgstr ""
+
+#: page-list-post.php:109
+msgid "Chờ xét duyệt"
+msgstr ""
+
+#: functions.php:242
+msgid "Các tin liên quan"
+msgstr ""
+
+#: inc/ajax.php:298
+msgid "Có sai sót trong thao tác xóa tin đăng"
+msgstr ""
+
+#: phongthuy/index.php:142
+msgid "Cập nhật Giới tính"
+msgstr ""
+
+#: inc/real-estate.php:47
+msgid "Cập nhật Loại nhà đất"
+msgstr ""
+
+#: phongthuy/index.php:110
+msgid "Cập nhật Năm sinh"
+msgstr ""
+
+#: inc/ux/login-form.php:98 inc/ux/login-form.php:191
+msgid "Danh sách tin đăng"
+msgstr ""
+
+#: page-list-post.php:66 page-post.php:330 single-re.php:205
+#: inc/real-estate.php:69
+msgid "Diện tích"
+msgstr ""
+
+#: inc/ux/login-form.php:19 inc/ux/login-form.php:35 inc/ux/login-form.php:52
+#: inc/ux/login-form.php:126 inc/ux/login-form.php:142
+#: inc/ux/login-form.php:159
+msgid "Email"
+msgstr ""
+
+#: inc/ajax.php:130
+msgid "Email của bạn chưa đúng."
+msgstr ""
+
+#: inc/ajax.php:193
+msgid "Email của bạn không đúng."
+msgstr ""
+
+#: inc/ajax.php:197
+msgid "Email này không tồn tại."
+msgstr ""
+
+#: inc/ajax.php:134
+msgid "Email này đã được sử dụng."
+msgstr ""
+
+#: page-list-post.php:67 page-post.php:352 inc/real-estate.php:70
+msgid "Giá"
+msgstr ""
+
+#: page-post.php:129
+msgid "Giá chỉ bao gồm những số."
+msgstr ""
+
+#: single-re.php:158 single-re.php:163
+msgid "Giá: "
+msgstr ""
+
+#: phongthuy/index.php:135 phongthuy/index.php:136 phongthuy/index.php:145
+msgid "Giới tính"
+msgstr ""
+
+#: phongthuy/index.php:139
+msgid "Giới tính cha"
+msgstr ""
+
+#: phongthuy/index.php:140
+msgid "Giới tính cha:"
+msgstr ""
+
+#: inc/ux/advanced-search.php:69
+msgid "Hiện có "
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://muatheme.com"
+msgstr ""
+
+#: page-list-post.php:69
+msgid "Hành động"
+msgstr ""
+
+#: page-post.php:457
+msgid ""
+"Hãy upload hình để tin của bạn được nổi bật hơn, hấp dẫn hơn và nhiều lượt "
+"xem hơn."
+msgstr ""
+
+#: page-list-post.php:61 page-post.php:427 single-re.php:120
+#: inc/real-estate.php:64
+msgid "Hình ảnh"
+msgstr ""
+
+#: single-re.php:215
+msgid "Hướng"
+msgstr ""
+
+#: page-post.php:357
+msgid "Hướng nhà"
+msgstr ""
+
+#: inc/ux/login-form.php:49 inc/ux/login-form.php:156
+msgid "Họ và tên"
+msgstr ""
+
+#: inc/ajax.php:287
+msgid "Không tồn tại tin đăng này"
+msgstr ""
+
+#: page-post.php:421
+msgid "Link youtube"
+msgstr ""
+
+#: inc/functions.php:210
+msgid "Liên hệ"
+msgstr ""
+
+#: page-list-post.php:64 page-post.php:259 inc/real-estate.php:40
+#: inc/real-estate.php:41 inc/real-estate.php:50 inc/real-estate.php:67
+msgid "Loại nhà đất"
+msgstr ""
+
+#: inc/real-estate.php:44
+msgid "Loại nhà đất cha"
+msgstr ""
+
+#: inc/real-estate.php:45
+msgid "Loại nhà đất cha:"
+msgstr ""
+
+#: inc/ux/login-form.php:38 inc/ux/login-form.php:145
+msgid "Lấy mật khẩu mới"
+msgstr ""
+
+#: page-post.php:377 single-re.php:235
+msgid "Lộ giới"
+msgstr ""
+
+#: page-post.php:371 page-post.php:381
+msgid "m"
+msgstr ""
+
+#: page-post.php:334
+msgid "m<sup>2</sup>"
+msgstr ""
+
+#. Author of the theme
+msgid "MuaTheme.com"
+msgstr ""
+
+#: inc/ux/login-form.php:22 inc/ux/login-form.php:58 inc/ux/login-form.php:129
+#: inc/ux/login-form.php:165
+msgid "Mật khẩu"
+msgstr ""
+
+#: inc/ajax.php:154
+msgid "Mật khẩu phải có ít nhất 6 kí tự."
+msgstr ""
+
+#: page-post.php:367 single-re.php:225
+msgid "Mặt tiền"
+msgstr ""
+
+#: inc/functions.php:262
+msgid "Nam"
+msgstr ""
+
+#: page-list-post.php:63 inc/real-estate.php:66
+msgid "Nhu cầu"
+msgstr ""
+
+#: page-post.php:245
+msgid "Nhu cầu "
+msgstr ""
+
+#: inc/real-estate.php:15 inc/real-estate.php:16 inc/real-estate.php:17
+#: inc/real-estate.php:18 inc/real-estate.php:24
+msgid "Nhà đất"
+msgstr ""
+
+#: inc/ux/login-form.php:61 inc/ux/login-form.php:168
+msgid "Nhập lại mật khẩu"
+msgstr ""
+
+#: inc/ajax.php:162
+msgid "Nhập lại mật khẩu và mật khẩu phải giống nhau."
+msgstr ""
+
+#: phongthuy/index.php:103 phongthuy/index.php:104 phongthuy/index.php:113
+msgid "Năm sinh"
+msgstr ""
+
+#: phongthuy/index.php:107
+msgid "Năm sinh cha"
+msgstr ""
+
+#: phongthuy/index.php:108
+msgid "Năm sinht cha:"
+msgstr ""
+
+#: content-none.php:6
+msgid "Oops! Không tìm thấy kết quả."
+msgstr ""
+
+#. Name of the template
+msgid "Page - Account"
+msgstr ""
+
+#. Name of the template
+msgid "Page - Change password"
+msgstr ""
+
+#. Name of the template
+msgid "Page - User list post"
+msgstr ""
+
+#. Name of the template
+msgid "Page - User Post"
+msgstr ""
+
+#: inc/ajax.php:211
+msgid "Password của bạn đã được thay đổi"
+msgstr ""
+
+#: inc/ajax.php:219
+msgid "Password của bạn đã được thay đổi thành công. Vui lòng kiểm tra email."
+msgstr ""
+
+#: inc/ajax.php:210
+msgid "Password mới của bạn"
+msgstr ""
+
+#: location.php:216
+msgid "Phường / xã"
+msgstr ""
+
+#: page-post.php:307
+msgid "Phường/xã"
+msgstr ""
+
+#: inc/ux/login-form.php:30 inc/ux/login-form.php:137
+msgid "Quên mật khẩu?"
+msgstr ""
+
+#: location.php:213 location.php:219
+msgid "Quận / huyện"
+msgstr ""
+
+#: page-post.php:289
+msgid "Quận/huyện"
+msgstr ""
+
+#. Name of the theme
+#. Description of the theme
+msgid "Rao Vat Bat Dong San 2022"
+msgstr ""
+
+#: page-list-post.php:60
+msgid "STT"
+msgstr ""
+
+#: page-post.php:399 page-post.php:401 single-re.php:255
+msgid "Số phòng ngủ"
+msgstr ""
+
+#: page-post.php:410 page-post.php:412 single-re.php:265
+msgid "Số toilet"
+msgstr ""
+
+#: page-post.php:387 page-post.php:389 single-re.php:245
+msgid "Số tầng"
+msgstr ""
+
+#: inc/ux/login-form.php:55 inc/ux/login-form.php:162
+msgid "Số điện thoại"
+msgstr ""
+
+#: inc/ajax.php:142
+msgid "Số điện thoại chỉ bao gồm những số."
+msgstr ""
+
+#: inc/ajax.php:146
+msgid "Số điện thoại phải có ít nhất 10 số."
+msgstr ""
+
+#: page-list-post.php:113
+msgid "Sửa"
+msgstr ""
+
+#: phongthuy/index.php:141
+msgid "Sửa Giới tính"
+msgstr ""
+
+#: inc/real-estate.php:46
+msgid "Sửa Loại nhà đất"
+msgstr ""
+
+#: inc/real-estate.php:22
+msgid "Sửa nhà đất"
+msgstr ""
+
+#: phongthuy/index.php:109
+msgid "Sửa Năm sinh"
+msgstr ""
+
+#: inc/functions.php:232
+msgid "tháng"
+msgstr ""
+
+#: phongthuy/index.php:143
+msgid "Thêm Giới tính"
+msgstr ""
+
+#: inc/real-estate.php:48
+msgid "Thêm Loại nhà đất"
+msgstr ""
+
+#: inc/real-estate.php:20 inc/real-estate.php:21
+msgid "Thêm nhà đất"
+msgstr ""
+
+#: phongthuy/index.php:111
+msgid "Thêm Năm sinh"
+msgstr ""
+
+#: page-post.php:464
+msgid "Thông tin chi tiết"
+msgstr ""
+
+#: inc/ajax.php:101
+msgid "Thông tin đăng nhập không đúng. Vui lòng nhập email và password đúng."
+msgstr ""
+
+#: single-re.php:160 inc/functions.php:236
+msgid "Thỏa thuận"
+msgstr ""
+
+#: inc/ux-builder.php:30
+msgid "Tin BĐS - List"
+msgstr ""
+
+#: inc/ux-builder.php:15
+msgid "Tin BĐS - Slide"
+msgstr ""
+
+#: inc/ux/advanced-search.php:69
+msgid "tin đăng"
+msgstr ""
+
+#: page-list-post.php:62 page-post.php:240
+msgid "Tiêu đề"
+msgstr ""
+
+#: inc/ux-builder.php:43
+msgid "Top Môi giới"
+msgstr ""
+
+#: functions.php:73
+msgid "Trang chủ"
+msgstr ""
+
+#: content-re-list.php:49 single-re.php:273
+msgid "trước"
+msgstr ""
+
+#: page-list-post.php:68
+msgid "Trạng thái"
+msgstr ""
+
+#: inc/functions.php:261
+msgid "Tây"
+msgstr ""
+
+#: inc/functions.php:266
+msgid "Tây bắc"
+msgstr ""
+
+#: inc/functions.php:267
+msgid "Tây nam"
+msgstr ""
+
+#: phongthuy/index.php:144
+msgid "Tên Giới tính"
+msgstr ""
+
+#: inc/real-estate.php:49
+msgid "Tên Loại nhà đất"
+msgstr ""
+
+#: phongthuy/index.php:112
+msgid "Tên Năm sinh"
+msgstr ""
+
+#: search-re.php:145 inc/advanced-search-widget.php:140
+#: inc/ux/advanced-search.php:84
+msgid "Tìm kiếm"
+msgstr ""
+
+#: phongthuy/index.php:137
+msgid "Tìm kiếm Giới tính"
+msgstr ""
+
+#: inc/real-estate.php:42
+msgid "Tìm kiếm Loại nhà đất"
+msgstr ""
+
+#: phongthuy/index.php:105
+msgid "Tìm kiếm Năm sinh"
+msgstr ""
+
+#: inc/ux/advanced-search.php:209
+msgid "Tìm kiếm!"
+msgstr ""
+
+#: inc/advanced-search-widget.php:11
+msgid "Tìm nhiều hơn"
+msgstr ""
+
+#: search-re.php:152
+msgid "Tìm thấy "
+msgstr ""
+
+#: single-re.php:151
+msgid "tại"
+msgstr ""
+
+#: phongthuy/index.php:138
+msgid "Tất cả Giới tính"
+msgstr ""
+
+#: inc/real-estate.php:43
+msgid "Tất cả Loại nhà đất"
+msgstr ""
+
+#: inc/real-estate.php:19
+msgid "Tất cả nhà đất"
+msgstr ""
+
+#: phongthuy/index.php:106
+msgid "Tất cả Năm sinh"
+msgstr ""
+
+#: page-list-post.php:65 page-post.php:276 inc/real-estate.php:68
+msgid "Tỉnh/thành"
+msgstr ""
+
+#: functions.php:257 inc/advanced-search-widget.php:27
+#: inc/ux/advanced-search.php:78
+msgid "Từ khóa"
+msgstr ""
+
+#: page-post.php:453
+msgid "Upload..."
+msgstr ""
+
+#: functions.php:61
+msgid "User menu"
+msgstr ""
+
+#: single-re.php:126
+msgid "Video"
+msgstr ""
+
+#: page-post.php:343
+msgid "VNĐ"
+msgstr ""
+
+#: page-post.php:345
+msgid "VNĐ/m2"
+msgstr ""
+
+#: page-post.php:344
+msgid "VNĐ/tháng"
+msgstr ""
+
+#: page-list-post.php:116 page-post.php:442 inc/ajax.php:251
+msgid "Xóa"
+msgstr ""
+
+#: page-list-post.php:107
+msgid "Đã duyệt"
+msgstr ""
+
+#: inc/ajax.php:292
+msgid "Đã xóa tin thành công."
+msgstr ""
+
+#: inc/functions.php:260
+msgid "Đông"
+msgstr ""
+
+#: inc/functions.php:264
+msgid "Đông bắc"
+msgstr ""
+
+#: inc/functions.php:265
+msgid "Đông nam"
+msgstr ""
+
+#: inc/ux/login-form.php:47 inc/ux/login-form.php:64 inc/ux/login-form.php:154
+#: inc/ux/login-form.php:171
+msgid "Đăng ký"
+msgstr ""
+
+#: inc/ajax.php:175
+msgid "Đăng ký tài khoản thành công. Bạn có thể đăng nhập để bắt đầu đăng bài."
+msgstr ""
+
+#: inc/ux/login-form.php:17 inc/ux/login-form.php:25 inc/ux/login-form.php:124
+#: inc/ux/login-form.php:132
+msgid "Đăng nhập"
+msgstr ""
+
+#: inc/ajax.php:103
+msgid "Đăng nhập thành công."
+msgstr ""
+
+#: page-post.php:481 inc/ux/login-form.php:97 inc/ux/login-form.php:190
+msgid "Đăng tin"
+msgstr ""
+
+#: inc/ux/login-form.php:9 inc/ux/login-form.php:116
+msgid "Đăng tin miễn phí"
+msgstr ""
+
+#: inc/ux/login-form.php:99 inc/ux/login-form.php:192
+msgid "Đăng xuất"
+msgstr ""
+
+#: page-post.php:340
+msgid "Đơn giá"
+msgstr ""
+
+#: page-post.php:325
+msgid "Địa chỉ"
+msgstr ""
+
+#: page-change-password.php:69
+msgid "Đổi mật khẩu thành công."
+msgstr ""
+
+#: inc/post.php:6
+msgid "Ảnh"
+msgstr ""
